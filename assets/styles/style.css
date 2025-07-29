@@ -1,0 +1,27 @@
+@import url(nav.css);
+@import url(main.css);
+@import url(interest.css);
+@import url(travel.css);
+@import url(keyframes.css);
+@import url(contact.css);
+@import url(footer.css);
+@import url(educ.css);
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary: #E7DFD2;
+    --bg: #F8F9F3;
+    --secondary: #2C3731;
+}
+
+html, body {
+    background: var(--bg);
+    scroll-behavior: smooth;
+}

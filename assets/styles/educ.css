@@ -1,0 +1,98 @@
+.types {
+    height: 60rem;
+    background-color: var(--primary);
+    margin-top: 7rem;
+}
+
+.types-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.types-text {
+    text-align: center;
+    padding-top: 2.5rem;
+    color: white;
+}
+
+.types-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    margin-top: 2rem;
+}
+
+.types-items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 9rem;
+    height: 9rem;
+    background-color: var(--secondary);
+    border-radius: 50%;
+}
+
+.types-items>img {
+    width: 7.5rem;
+    height: 7.5rem;
+    border-radius: 50%;
+}
+
+.types-items-text {
+    margin-top: 0.5rem;
+    color: var(--secondary);
+}
+
+.c-text {
+    margin-top: 4rem;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.con-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.com-text {
+    width: 30rem;
+    height: 30rem;
+    background: var(--bg);
+    margin-top: 1.5rem;
+    border-radius: 0 50% 0 50%;
+}
+
+.com-img img {
+    width: 30rem;
+    height: 30rem;
+    object-fit: cover;
+    margin-top: 1.5rem;
+    border-radius: 50% 0 50% 0;
+}
+
+.comt-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.comp-t {
+    margin-top: -1rem;
+    width: 25rem;
+    margin-left: 3rem;
+}
+
+.ont {
+    margin-top: 0.7rem;
+}
+
+.concetr img {
+    width: 10rem;
+    margin-left: 20rem;
+}
+

@@ -1,0 +1,32 @@
+nav>h1 {
+    text-align: center;
+    font-family: "Calligraffitti", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: var(--secondary);
+    font-size: 2.5rem;
+    margin-top: 0.5rem;
+    animation: m 2s infinite;
+}
+
+@keyframes m {
+    0% {
+        color: #4d4b4b;
+    }
+
+    25% {
+        color: #bba58c;
+    }
+
+    50% {
+        color: #A2AF9B;
+    }
+
+    75% {
+        color: #bba58c;
+    }
+
+    100% {
+        color: #4d4b4b;
+    }
+}

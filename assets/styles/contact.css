@@ -1,0 +1,63 @@
+.contact-m {
+    background: white;
+    height: 36rem;
+}
+
+
+.con-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.con-text {
+    text-align: start;
+}
+
+.con-text>h4 {
+    font-size: 1.5rem;
+}
+
+.con-text>h1 {
+    font-size: 3.8rem;
+    margin-top: 0.5rem;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 5rem;
+}
+
+.names,
+.e-cont {
+    display: flex;
+    gap: 0.8rem;
+}
+
+.names>input,
+.e-cont>input {
+    width: 15rem;
+    height: 2.5rem;
+    border-radius: 1.5rem;
+    border: 1px solid #d3d0d0;
+    outline: none;
+    background: #f0efef;
+    padding-left: 1rem;
+
+}
+
+.mess>input {
+    width: 31rem;
+    height: 15rem;
+    border-radius: 1.5rem;
+    border: 1px solid #d3d0d0;
+    outline: none;
+    background: #f0efef;
+    padding-bottom: 12rem;
+    padding-left: 1rem;
+}
+

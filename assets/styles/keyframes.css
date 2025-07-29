@@ -1,0 +1,90 @@
+@keyframes card {
+    0% {
+        background: #ac9d8d;
+    }
+
+    25% {
+        background: #646461;
+    }
+
+    50% {
+        background: #4a5842;
+    }
+
+    75% {
+        background: #646461;
+    }
+
+    100% {
+        background: #ac9d8d;
+    }
+}
+
+@keyframes card {
+    0% {
+        background: #ac9d8d;
+    }
+
+    25% {
+        background: #646461;
+    }
+
+    50% {
+        background: #4a5842;
+    }
+
+    75% {
+        background: #646461;
+    }
+
+    100% {
+        background: #ac9d8d;
+    }
+}
+
+@keyframes airplane {
+
+    0% {
+        right: 0;
+    }
+
+    25% {
+        width: 10rem;
+    }
+
+    50% {
+        width: 15rem;
+    }
+
+    75% {
+        width: 20rem;
+    }
+
+    100% {
+        right: 95rem;
+        width: 25rem;
+    }
+
+}
+
+@keyframes interest {
+    0% {
+        transform: scale(1.05);
+    }
+
+    25% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(0.95);
+    }
+
+    75% {
+        transform: scale(1);
+    }
+
+    100% {
+        transform: scale(1.05);
+    }
+}
